@@ -10,7 +10,12 @@ config_version=5
 
 [application]
 
+<<<<<<< HEAD
 config/name="team3"
+=======
+config/name="godot_template-v2"
+run/main_scene="uid://ddd2vj78n50cw"
+>>>>>>> a91c0039716bc9f7037b4bd3fbcf94866818d4da
 config/features=PackedStringArray("4.7", "Forward Plus")
 
 [display]
